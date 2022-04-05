@@ -25,7 +25,4 @@
 <h2> Statistics <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='50px'> </h2>
 <br />
   
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRX-8&show_icons=ocean_dark" alt="MRX-8" /></p>-->
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRX-8&theme=dark&show_icons=true)
