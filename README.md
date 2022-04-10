@@ -1,7 +1,8 @@
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
+  
+![Visitor Count](https://profile-counter.glitch.me/{MRX-8}/count.svg)
 
   <br>
   
